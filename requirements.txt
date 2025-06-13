@@ -1,0 +1,6 @@
+tensorflow
+tensorflow_hub
+librosa
+soundfile
+gradio
+numpy
