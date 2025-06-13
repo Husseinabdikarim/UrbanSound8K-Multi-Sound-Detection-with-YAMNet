@@ -15,6 +15,9 @@ Visit the Hugging Face Space:
 👉 [UrbanSound8K-MultiSoundDetect on HF](https://huggingface.co/spaces/AbdGhordlo/UrbanSound8K-MultiSoundDetect)  
 Upload a 4-second `.wav` mixture and see the predicted classes!
 
+Visit the Medium Blogpost: 
+👉 [UrbanSound8K-MultiSoundDetect on Medium](https://medium.com/@husseinabdikarim18/urbansound8k-multi-sound-detection-with-yamnet-0c493ced6e22)  
+
 ## 🛠 Files
 
 - `app.py`: Gradio interface for uploading and classifying audio
